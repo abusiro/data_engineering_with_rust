@@ -1,4 +1,4 @@
-FROM rust:1.8.5-bookworm
+FROM mcr.microsoft.com/devcontainers/rust:dev-bookworm
 
 # Include lld linker to improve build times either by using environment variable
 # RUSTFLAGS="-C link-arg=-fuse-ld=lld" or with Cargo's configuration file (i.e see .cargo/config.toml).
