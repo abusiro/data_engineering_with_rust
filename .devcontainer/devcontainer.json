@@ -35,7 +35,9 @@
 				"rust-lang.rust-analyzer",
 				"GitHub.copilot-nightly",
 				"GitHub.copilot-labs",
-				"GitHub.copilot-chat"
+				"GitHub.copilot-chat",
+				"ms-vscode.makefile-tools",
+				"tamasfe.even-better-toml"
 			]
 		}
 	},
